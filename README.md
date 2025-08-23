@@ -96,18 +96,3 @@ npm start
 ```
 
 ---
-
-## 👩‍🌾 Meet the Team  
-
-| Name           | Role                                | GitHub Profile |
-|----------------|-------------------------------------|----------------|
-| **Labanya Saha** | Backend Developer & Integration     | [GitHub](https://github.com/labanyasaha2004) |
-| **Asmita Das**   | Frontend Developer & UI/UX Design  | [GitHub](https://github.com/asmitadas16) |
-| **Aditya Raj**   | Data & Model Development (Yield Prediction) | [GitHub](https://github.com/Adityaraj1904) |
-| **Karunya Raj**  | Data & Model Development (Disease Detection) | [GitHub](https://github.com/KarunyaRaj31) |
-
----
-
-
-
-
